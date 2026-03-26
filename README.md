@@ -121,7 +121,7 @@ git clone <your-repo-link>
 2. Navigate into the folder:
 
 ```bash
-cd oss-audit-yourrollnumber
+cd oss-audit-24BCE10869
 ```
 
 3. Run scripts as shown above.
